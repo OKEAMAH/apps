@@ -16,8 +16,8 @@
   "type": "module",
   "version": "0.135.2-26-x",
   "dependencies": {
-    "@polkadot/react-components": "^0.135.2-26-x",
-    "axios": "^1.6.2"
+    "@polkadot/react-components": "^0.34.1",
+    "axios": "^1.7.4"
   },
   "peerDependencies": {
     "react": "*",
